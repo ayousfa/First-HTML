@@ -1,0 +1,123 @@
+body {
+  background-image: url('pics/backgroundmain.jpg');
+}
+
+.alphatitle {
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: rgba(255, 255, 255, 0.3);
+  color: #9898e6;
+  border-radius: 5px;
+  margin-top: 150px;
+  
+  
+}
+
+.betatitle {
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: rgba(255, 255, 255, 0.3);
+  color: #9898e6;
+  border-radius: 5px;
+  margin-top: 40px;
+ font-size: large; 
+  
+}
+
+.grad {
+  text-align:center
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+  width: 20%;
+}
+
+.safari{
+  border-radius: 5px;
+  background-image: url("pics/bottons/safari.jpg");
+  height:175px;
+  width:295px;
+  text-align: center;
+  font-family: Impact, serif;
+  font-size: xx-large;
+  margin: 1px;
+}
+ 
+.safari:hover {
+  cursor: pointer;
+  box-shadow: 5px 5px 7px 5px #ffcc00;
+}
+
+.forest{
+  border-radius: 5px;
+  background-image: url("pics/bottons/rainforest.jpg");
+  height:175px;
+  width:295px;
+  text-align: center;
+  font-family: Impact, serif;
+  font-size: xx-large;
+  color: black;
+  margin: 1px;
+}
+ 
+.forest:hover {
+  cursor: pointer;
+  box-shadow: 5px 5px 7px 5px #00994d;
+}
+
+.aquatic{
+  border-radius: 5px;
+  background-image: url("pics/bottons/aquatic.jpg");
+  height:175px;
+  width:295px;
+  text-align: center;
+  font-family: Impact, serif;
+  font-size: xx-large;
+  margin: 1px;
+}
+
+.aquatic:hover {
+  cursor: pointer;
+  box-shadow: 5px 5px 7px 5px #0073e6;
+}
+
+.desert{
+  border-radius: 5px;
+  background-image: url("pics/bottons/desert.jpg");
+  height:175px;
+  width:295px;
+  text-align: center;
+  font-family: Impact, serif;
+  font-size: xx-large;
+  margin-bottom: 1px;
+}
+
+.desert:hover {
+  cursor: pointer;
+  box-shadow: 5px 5px 7px 5px #ffa31a;
+}
+
+.tundra{
+  border-radius: 5px;
+  background-image: url("pics/bottons/tundra.jpg");
+  height:175px;
+  width: 280px;
+  text-align: center;
+  font-family: Impact, serif;
+  font-size: xx-large;
+  margin-bottom: 1px;
+}
+
+.tundra:hover {
+  cursor: pointer;
+  box-shadow: 5px 5px 7px 5px #86592d;
+}
+
+
+
+
+
+

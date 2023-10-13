@@ -1,0 +1,108 @@
+
+.HB {
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 90px;
+  display:block; margin: 0 auto;
+
+}
+
+.HB:hover {
+  cursor: pointer;
+  box-shadow: 5px 5px 7px 5px #000000;
+}
+
+.hb {
+  display: inline-block;
+  margin-left: 500px;
+  margin-right: 540px;
+}
+
+.pb {
+  display: inline-block;
+}
+
+.nb {
+  display: inline-block;
+}
+
+.PB {
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 90px;
+  display:block; margin: 0 auto;
+
+}
+
+.PB:hover {
+  cursor: pointer;
+  box-shadow: 5px 5px 7px 5px #000000;
+}
+
+.NB {
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 90px;
+  display: block; margin: 0 auto;
+
+}
+
+.NB:hover {
+  cursor: pointer;
+  box-shadow: 5px 5px 7px 5px #000000;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 10px;
+  width: 20%;
+}
+
+
+
+body {
+  background-image: url('animals/backgrounds/aquatic.jpg');
+  background-repeat: no-repeat; 
+  background-size: 1700px;
+}
+
+.alphatitle {
+  text-align: center;
+  font-family: 'Lucida Sans', 'Impact';
+  background-color: rgba(255, 255, 255, 0.3);
+  color: black;
+  border-radius: 5px;
+  margin-top: 150px;
+  font-size: large; 
+  
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+  width: 20%;
+}
+
+.A2 {
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 90px;
+  
+
+}
+
+.A2:hover {
+  cursor: pointer;
+  box-shadow: 5px 5px 7px 5px #0066ff;
+}
+
+.B2 {
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 90px;
+  
+
+}
+
+.B2:hover {
+  cursor: pointer;
+  box-shadow: 5px 5px 7px 5px #0066ff;
+}
+
